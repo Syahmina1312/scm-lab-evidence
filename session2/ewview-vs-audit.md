@@ -1,0 +1,3 @@
+Review vs Audit
+
+A code review verifies the proposed code or documentation change to ensure that it is correct and adheres to the requirements. In part 5 I did a review on my own pull request and commented on the changed file. A formal configuration audit (FCA/PCA) is a more structured and is used to determine if the software configuration items and associated records are compliant with the specified requirements and standards.
